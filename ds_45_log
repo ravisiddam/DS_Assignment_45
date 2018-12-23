@@ -1,0 +1,205 @@
+"C:\Program Files\Java\jdk1.8.0_191\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.5\lib\idea_rt.jar=56252:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.5\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_191\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_191\jre\lib\rt.jar;C:\Users\siddam\IdeaProjects\ScalaSecond\target\scala-2.11\classes;C:\Users\siddam\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar;C:\Users\siddam\.ivy2\cache\aopalliance\aopalliance\jars\aopalliance-1.0.jar;C:\Users\siddam\.ivy2\cache\com.chuusai\shapeless_2.11\bundles\shapeless_2.11-2.0.0.jar;C:\Users\siddam\.ivy2\cache\com.clearspring.analytics\stream\jars\stream-2.7.0.jar;C:\Users\siddam\.ivy2\cache\com.esotericsoftware\kryo-shaded\bundles\kryo-shaded-3.0.3.jar;C:\Users\siddam\.ivy2\cache\com.esotericsoftware\minlog\bundles\minlog-1.3.0.jar;C:\Users\siddam\.ivy2\cache\com.fasterxml.jackson.core\jackson-annotations\bundles\jackson-annotations-2.6.5.jar;C:\Users\siddam\.ivy2\cache\com.fasterxml.jackson.core\jackson-core\bundles\jackson-core-2.6.5.jar;C:\Users\siddam\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.6.5.jar;C:\Users\siddam\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-paranamer\bundles\jackson-module-paranamer-2.6.5.jar;C:\Users\siddam\.ivy2\cache\com.fasterxml.jackson.module\jackson-module-scala_2.11\bundles\jackson-module-scala_2.11-2.6.5.jar;C:\Users\siddam\.ivy2\cache\com.github.fommil.netlib\core\jars\core-1.1.2.jar;C:\Users\siddam\.ivy2\cache\com.github.rwl\jtransforms\jars\jtransforms-2.4.0.jar;C:\Users\siddam\.ivy2\cache\com.google.code.findbugs\jsr305\jars\jsr305-1.3.9.jar;C:\Users\siddam\.ivy2\cache\com.google.guava\guava\bundles\guava-14.0.1.jar;C:\Users\siddam\.ivy2\cache\com.google.inject\guice\jars\guice-3.0.jar;C:\Users\siddam\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-2.5.0.jar;C:\Users\siddam\.ivy2\cache\com.ning\compress-lzf\bundles\compress-lzf-1.0.3.jar;C:\Users\siddam\.ivy2\cache\com.thoughtworks.paranamer\paranamer\jars\paranamer-2.6.jar;C:\Users\siddam\.ivy2\cache\com.twitter\chill-java\jars\chill-java-0.8.0.jar;C:\Users\siddam\.ivy2\cache\com.twitter\chill_2.11\jars\chill_2.11-0.8.0.jar;C:\Users\siddam\.ivy2\cache\com.univocity\univocity-parsers\jars\univocity-parsers-2.2.1.jar;C:\Users\siddam\.ivy2\cache\commons-beanutils\commons-beanutils\jars\commons-beanutils-1.7.0.jar;C:\Users\siddam\.ivy2\cache\commons-beanutils\commons-beanutils-core\jars\commons-beanutils-core-1.8.0.jar;C:\Users\siddam\.ivy2\cache\commons-cli\commons-cli\jars\commons-cli-1.2.jar;C:\Users\siddam\.ivy2\cache\commons-codec\commons-codec\jars\commons-codec-1.10.jar;C:\Users\siddam\.ivy2\cache\commons-collections\commons-collections\jars\commons-collections-3.2.1.jar;C:\Users\siddam\.ivy2\cache\commons-configuration\commons-configuration\jars\commons-configuration-1.6.jar;C:\Users\siddam\.ivy2\cache\commons-digester\commons-digester\jars\commons-digester-1.8.jar;C:\Users\siddam\.ivy2\cache\commons-httpclient\commons-httpclient\jars\commons-httpclient-3.1.jar;C:\Users\siddam\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.1.jar;C:\Users\siddam\.ivy2\cache\commons-lang\commons-lang\jars\commons-lang-2.5.jar;C:\Users\siddam\.ivy2\cache\commons-net\commons-net\jars\commons-net-2.2.jar;C:\Users\siddam\.ivy2\cache\io.dropwizard.metrics\metrics-core\bundles\metrics-core-3.1.2.jar;C:\Users\siddam\.ivy2\cache\io.dropwizard.metrics\metrics-graphite\bundles\metrics-graphite-3.1.2.jar;C:\Users\siddam\.ivy2\cache\io.dropwizard.metrics\metrics-json\bundles\metrics-json-3.1.2.jar;C:\Users\siddam\.ivy2\cache\io.dropwizard.metrics\metrics-jvm\bundles\metrics-jvm-3.1.2.jar;C:\Users\siddam\.ivy2\cache\io.netty\netty\bundles\netty-3.8.0.Final.jar;C:\Users\siddam\.ivy2\cache\io.netty\netty-all\jars\netty-all-4.0.42.Final.jar;C:\Users\siddam\.ivy2\cache\javax.annotation\javax.annotation-api\jars\javax.annotation-api-1.2.jar;C:\Users\siddam\.ivy2\cache\javax.inject\javax.inject\jars\javax.inject-1.jar;C:\Users\siddam\.ivy2\cache\javax.servlet\javax.servlet-api\jars\javax.servlet-api-3.1.0.jar;C:\Users\siddam\.ivy2\cache\javax.validation\validation-api\jars\validation-api-1.1.0.Final.jar;C:\Users\siddam\.ivy2\cache\javax.ws.rs\javax.ws.rs-api\jars\javax.ws.rs-api-2.0.1.jar;C:\Users\siddam\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar;C:\Users\siddam\.ivy2\cache\net.java.dev.jets3t\jets3t\jars\jets3t-0.7.1.jar;C:\Users\siddam\.ivy2\cache\net.jpountz.lz4\lz4\jars\lz4-1.3.0.jar;C:\Users\siddam\.ivy2\cache\net.razorvine\pyrolite\jars\pyrolite-4.13.jar;C:\Users\siddam\.ivy2\cache\net.sf.opencsv\opencsv\jars\opencsv-2.3.jar;C:\Users\siddam\.ivy2\cache\net.sf.py4j\py4j\jars\py4j-0.10.4.jar;C:\Users\siddam\.ivy2\cache\net.sourceforge.f2j\arpack_combined_all\jars\arpack_combined_all-0.1.jar;C:\Users\siddam\.ivy2\cache\org.antlr\antlr4-runtime\jars\antlr4-runtime-4.5.3.jar;C:\Users\siddam\.ivy2\cache\org.apache.avro\avro\jars\avro-1.7.7.jar;C:\Users\siddam\.ivy2\cache\org.apache.avro\avro-ipc\jars\avro-ipc-1.7.7.jar;C:\Users\siddam\.ivy2\cache\org.apache.avro\avro-ipc\jars\avro-ipc-1.7.7-tests.jar;C:\Users\siddam\.ivy2\cache\org.apache.avro\avro-mapred\jars\avro-mapred-1.7.7-hadoop2.jar;C:\Users\siddam\.ivy2\cache\org.apache.commons\commons-compress\jars\commons-compress-1.4.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.commons\commons-crypto\jars\commons-crypto-1.0.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.commons\commons-lang3\jars\commons-lang3-3.5.jar;C:\Users\siddam\.ivy2\cache\org.apache.commons\commons-math\jars\commons-math-2.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.commons\commons-math3\jars\commons-math3-3.4.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.curator\curator-client\bundles\curator-client-2.4.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.curator\curator-framework\bundles\curator-framework-2.4.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.curator\curator-recipes\bundles\curator-recipes-2.4.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-annotations\jars\hadoop-annotations-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-auth\jars\hadoop-auth-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-client\jars\hadoop-client-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-common\jars\hadoop-common-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-hdfs\jars\hadoop-hdfs-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-app\jars\hadoop-mapreduce-client-app-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-common\jars\hadoop-mapreduce-client-common-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-core\jars\hadoop-mapreduce-client-core-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-jobclient\jars\hadoop-mapreduce-client-jobclient-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-mapreduce-client-shuffle\jars\hadoop-mapreduce-client-shuffle-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-yarn-api\jars\hadoop-yarn-api-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-yarn-client\jars\hadoop-yarn-client-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-yarn-common\jars\hadoop-yarn-common-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.hadoop\hadoop-yarn-server-common\jars\hadoop-yarn-server-common-2.2.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.ivy\ivy\jars\ivy-2.4.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.parquet\parquet-column\jars\parquet-column-1.8.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.parquet\parquet-common\jars\parquet-common-1.8.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.parquet\parquet-encoding\jars\parquet-encoding-1.8.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.parquet\parquet-format\jars\parquet-format-2.3.0-incubating.jar;C:\Users\siddam\.ivy2\cache\org.apache.parquet\parquet-hadoop\jars\parquet-hadoop-1.8.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.parquet\parquet-jackson\jars\parquet-jackson-1.8.1.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-catalyst_2.11\jars\spark-catalyst_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-graphx_2.11\jars\spark-graphx_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-launcher_2.11\jars\spark-launcher_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-mllib-local_2.11\jars\spark-mllib-local_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-network-common_2.11\jars\spark-network-common_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-network-shuffle_2.11\jars\spark-network-shuffle_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-sketch_2.11\jars\spark-sketch_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-sql_2.11\jars\spark-sql_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-tags_2.11\jars\spark-tags_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.spark\spark-unsafe_2.11\jars\spark-unsafe_2.11-2.1.0.jar;C:\Users\siddam\.ivy2\cache\org.apache.xbean\xbean-asm5-shaded\bundles\xbean-asm5-shaded-4.4.jar;C:\Users\siddam\.ivy2\cache\org.apache.zookeeper\zookeeper\jars\zookeeper-3.4.5.jar;C:\Users\siddam\.ivy2\cache\org.codehaus.jackson\jackson-core-asl\jars\jackson-core-asl-1.9.13.jar;C:\Users\siddam\.ivy2\cache\org.codehaus.jackson\jackson-mapper-asl\jars\jackson-mapper-asl-1.9.13.jar;C:\Users\siddam\.ivy2\cache\org.codehaus.janino\commons-compiler\jars\commons-compiler-3.0.0.jar;C:\Users\siddam\.ivy2\cache\org.codehaus.janino\janino\jars\janino-3.0.0.jar;C:\Users\siddam\.ivy2\cache\org.fusesource.leveldbjni\leveldbjni-all\bundles\leveldbjni-all-1.8.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.hk2\hk2-api\jars\hk2-api-2.4.0-b34.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.hk2\hk2-locator\jars\hk2-locator-2.4.0-b34.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.hk2\hk2-utils\jars\hk2-utils-2.4.0-b34.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.hk2\osgi-resource-locator\jars\osgi-resource-locator-1.0.1.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.hk2.external\aopalliance-repackaged\jars\aopalliance-repackaged-2.4.0-b34.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.hk2.external\javax.inject\jars\javax.inject-2.4.0-b34.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.jersey.bundles.repackaged\jersey-guava\bundles\jersey-guava-2.22.2.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet\jars\jersey-container-servlet-2.22.2.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.jersey.containers\jersey-container-servlet-core\jars\jersey-container-servlet-core-2.22.2.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.jersey.core\jersey-client\jars\jersey-client-2.22.2.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.jersey.core\jersey-common\jars\jersey-common-2.22.2.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.jersey.core\jersey-server\jars\jersey-server-2.22.2.jar;C:\Users\siddam\.ivy2\cache\org.glassfish.jersey.media\jersey-media-jaxb\jars\jersey-media-jaxb-2.22.2.jar;C:\Users\siddam\.ivy2\cache\org.javassist\javassist\bundles\javassist-3.18.1-GA.jar;C:\Users\siddam\.ivy2\cache\org.jpmml\pmml-model\jars\pmml-model-1.2.15.jar;C:\Users\siddam\.ivy2\cache\org.jpmml\pmml-schema\jars\pmml-schema-1.2.15.jar;C:\Users\siddam\.ivy2\cache\org.json4s\json4s-ast_2.11\jars\json4s-ast_2.11-3.2.11.jar;C:\Users\siddam\.ivy2\cache\org.json4s\json4s-core_2.11\jars\json4s-core_2.11-3.2.11.jar;C:\Users\siddam\.ivy2\cache\org.json4s\json4s-jackson_2.11\jars\json4s-jackson_2.11-3.2.11.jar;C:\Users\siddam\.ivy2\cache\org.mortbay.jetty\jetty-util\jars\jetty-util-6.1.26.jar;C:\Users\siddam\.ivy2\cache\org.objenesis\objenesis\jars\objenesis-2.1.jar;C:\Users\siddam\.ivy2\cache\org.roaringbitmap\RoaringBitmap\bundles\RoaringBitmap-0.5.11.jar;C:\Users\siddam\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.11.7.jar;C:\Users\siddam\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.11.7.jar;C:\Users\siddam\.ivy2\cache\org.scala-lang\scalap\jars\scalap-2.11.7.jar;C:\Users\siddam\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar;C:\Users\siddam\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.4.jar;C:\Users\siddam\.ivy2\cache\org.scalanlp\breeze-macros_2.11\jars\breeze-macros_2.11-0.12.jar;C:\Users\siddam\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.12.jar;C:\Users\siddam\.ivy2\cache\org.scalatest\scalatest_2.11\bundles\scalatest_2.11-2.2.6.jar;C:\Users\siddam\.ivy2\cache\org.slf4j\jcl-over-slf4j\jars\jcl-over-slf4j-1.7.16.jar;C:\Users\siddam\.ivy2\cache\org.slf4j\jul-to-slf4j\jars\jul-to-slf4j-1.7.16.jar;C:\Users\siddam\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.16.jar;C:\Users\siddam\.ivy2\cache\org.slf4j\slf4j-log4j12\jars\slf4j-log4j12-1.7.16.jar;C:\Users\siddam\.ivy2\cache\org.sonatype.sisu.inject\cglib\jars\cglib-2.2.1-v20090111.jar;C:\Users\siddam\.ivy2\cache\org.spark-project.spark\unused\jars\unused-1.0.0.jar;C:\Users\siddam\.ivy2\cache\org.spire-math\spire-macros_2.11\jars\spire-macros_2.11-0.7.4.jar;C:\Users\siddam\.ivy2\cache\org.spire-math\spire_2.11\jars\spire_2.11-0.7.4.jar;C:\Users\siddam\.ivy2\cache\org.tukaani\xz\jars\xz-1.0.jar;C:\Users\siddam\.ivy2\cache\org.xerial.snappy\snappy-java\bundles\snappy-java-1.1.2.6.jar;C:\Users\siddam\.ivy2\cache\oro\oro\jars\oro-2.0.8.jar;C:\Users\siddam\.ivy2\cache\xmlenc\xmlenc\jars\xmlenc-0.52.jar" core.SparkAssignment45
+list is List(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+sum of the list elements: 55
+number of elements: 10
+average of the list elements: 5
+sum of the even elements: 30
+count of the elements divisible by 5 and 3: 0
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+18/12/22 23:16:33 INFO SparkContext: Running Spark version 2.1.0
+18/12/22 23:16:33 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/12/22 23:16:33 INFO SecurityManager: Changing view acls to: siddam
+18/12/22 23:16:33 INFO SecurityManager: Changing modify acls to: siddam
+18/12/22 23:16:33 INFO SecurityManager: Changing view acls groups to: 
+18/12/22 23:16:33 INFO SecurityManager: Changing modify acls groups to: 
+18/12/22 23:16:33 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(siddam); groups with view permissions: Set(); users  with modify permissions: Set(siddam); groups with modify permissions: Set()
+18/12/22 23:16:34 INFO Utils: Successfully started service 'sparkDriver' on port 56276.
+18/12/22 23:16:34 INFO SparkEnv: Registering MapOutputTracker
+18/12/22 23:16:34 INFO SparkEnv: Registering BlockManagerMaster
+18/12/22 23:16:34 INFO BlockManagerMasterEndpoint: Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+18/12/22 23:16:34 INFO BlockManagerMasterEndpoint: BlockManagerMasterEndpoint up
+18/12/22 23:16:35 INFO DiskBlockManager: Created local directory at C:\Users\siddam\AppData\Local\Temp\blockmgr-7c0d4fce-fcf0-41b9-b6c2-2d6e50e3f746
+18/12/22 23:16:35 INFO MemoryStore: MemoryStore started with capacity 1988.7 MB
+18/12/22 23:16:35 INFO SparkEnv: Registering OutputCommitCoordinator
+18/12/22 23:16:35 INFO Utils: Successfully started service 'SparkUI' on port 4040.
+18/12/22 23:16:35 INFO SparkUI: Bound SparkUI to 0.0.0.0, and started at http://192.168.56.1:4040
+18/12/22 23:16:35 INFO Executor: Starting executor ID driver on host localhost
+18/12/22 23:16:35 INFO Utils: Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 56297.
+18/12/22 23:16:35 INFO NettyBlockTransferService: Server created on 192.168.56.1:56297
+18/12/22 23:16:35 INFO BlockManager: Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+18/12/22 23:16:35 INFO BlockManagerMaster: Registering BlockManager BlockManagerId(driver, 192.168.56.1, 56297, None)
+18/12/22 23:16:35 INFO BlockManagerMasterEndpoint: Registering block manager 192.168.56.1:56297 with 1988.7 MB RAM, BlockManagerId(driver, 192.168.56.1, 56297, None)
+18/12/22 23:16:35 INFO BlockManagerMaster: Registered BlockManager BlockManagerId(driver, 192.168.56.1, 56297, None)
+18/12/22 23:16:35 INFO BlockManager: Initialized BlockManager: BlockManagerId(driver, 192.168.56.1, 56297, None)
+18/12/22 23:16:36 INFO MemoryStore: Block broadcast_0 stored as values in memory (estimated size 127.1 KB, free 1988.6 MB)
+18/12/22 23:16:36 INFO MemoryStore: Block broadcast_0_piece0 stored as bytes in memory (estimated size 14.3 KB, free 1988.6 MB)
+18/12/22 23:16:36 INFO BlockManagerInfo: Added broadcast_0_piece0 in memory on 192.168.56.1:56297 (size: 14.3 KB, free: 1988.7 MB)
+18/12/22 23:16:36 INFO SparkContext: Created broadcast 0 from textFile at SparkAssignment45.scala:67
+18/12/22 23:16:36 ERROR Shell: Failed to locate the winutils binary in the hadoop binary path
+java.io.IOException: Could not locate executable null\bin\winutils.exe in the Hadoop binaries.
+	at org.apache.hadoop.util.Shell.getQualifiedBinPath(Shell.java:278)
+	at org.apache.hadoop.util.Shell.getWinUtilsPath(Shell.java:300)
+	at org.apache.hadoop.util.Shell.<clinit>(Shell.java:293)
+	at org.apache.hadoop.util.StringUtils.<clinit>(StringUtils.java:76)
+	at org.apache.hadoop.mapred.FileInputFormat.setInputPaths(FileInputFormat.java:362)
+	at org.apache.spark.SparkContext$$anonfun$hadoopFile$1$$anonfun$30.apply(SparkContext.scala:1014)
+	at org.apache.spark.SparkContext$$anonfun$hadoopFile$1$$anonfun$30.apply(SparkContext.scala:1014)
+	at org.apache.spark.rdd.HadoopRDD$$anonfun$getJobConf$6.apply(HadoopRDD.scala:179)
+	at org.apache.spark.rdd.HadoopRDD$$anonfun$getJobConf$6.apply(HadoopRDD.scala:179)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.rdd.HadoopRDD.getJobConf(HadoopRDD.scala:179)
+	at org.apache.spark.rdd.HadoopRDD.getPartitions(HadoopRDD.scala:198)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:252)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:250)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:250)
+	at org.apache.spark.rdd.MapPartitionsRDD.getPartitions(MapPartitionsRDD.scala:35)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:252)
+	at org.apache.spark.rdd.RDD$$anonfun$partitions$2.apply(RDD.scala:250)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.apache.spark.rdd.RDD.partitions(RDD.scala:250)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:1958)
+	at org.apache.spark.rdd.RDD.count(RDD.scala:1157)
+	at core.SparkAssignment45$.main(SparkAssignment45.scala:68)
+	at core.SparkAssignment45.main(SparkAssignment45.scala)
+18/12/22 23:16:36 INFO FileInputFormat: Total input paths to process : 1
+18/12/22 23:16:36 INFO SparkContext: Starting job: count at SparkAssignment45.scala:68
+18/12/22 23:16:36 INFO DAGScheduler: Got job 0 (count at SparkAssignment45.scala:68) with 2 output partitions
+18/12/22 23:16:36 INFO DAGScheduler: Final stage: ResultStage 0 (count at SparkAssignment45.scala:68)
+18/12/22 23:16:36 INFO DAGScheduler: Parents of final stage: List()
+18/12/22 23:16:36 INFO DAGScheduler: Missing parents: List()
+18/12/22 23:16:36 INFO DAGScheduler: Submitting ResultStage 0 (../session_45_3.txt MapPartitionsRDD[1] at textFile at SparkAssignment45.scala:67), which has no missing parents
+18/12/22 23:16:37 INFO MemoryStore: Block broadcast_1 stored as values in memory (estimated size 3.1 KB, free 1988.6 MB)
+18/12/22 23:16:37 INFO MemoryStore: Block broadcast_1_piece0 stored as bytes in memory (estimated size 1883.0 B, free 1988.6 MB)
+18/12/22 23:16:37 INFO BlockManagerInfo: Added broadcast_1_piece0 in memory on 192.168.56.1:56297 (size: 1883.0 B, free: 1988.7 MB)
+18/12/22 23:16:37 INFO SparkContext: Created broadcast 1 from broadcast at DAGScheduler.scala:996
+18/12/22 23:16:37 INFO DAGScheduler: Submitting 2 missing tasks from ResultStage 0 (../session_45_3.txt MapPartitionsRDD[1] at textFile at SparkAssignment45.scala:67)
+18/12/22 23:16:37 INFO TaskSchedulerImpl: Adding task set 0.0 with 2 tasks
+18/12/22 23:16:37 INFO TaskSetManager: Starting task 0.0 in stage 0.0 (TID 0, localhost, executor driver, partition 0, PROCESS_LOCAL, 5915 bytes)
+18/12/22 23:16:37 INFO TaskSetManager: Starting task 1.0 in stage 0.0 (TID 1, localhost, executor driver, partition 1, PROCESS_LOCAL, 5915 bytes)
+18/12/22 23:16:37 INFO Executor: Running task 1.0 in stage 0.0 (TID 1)
+18/12/22 23:16:37 INFO Executor: Running task 0.0 in stage 0.0 (TID 0)
+18/12/22 23:16:37 INFO HadoopRDD: Input split: file:/C:/Users/siddam/IdeaProjects/session_45_3.txt:0+56
+18/12/22 23:16:37 INFO HadoopRDD: Input split: file:/C:/Users/siddam/IdeaProjects/session_45_3.txt:56+57
+18/12/22 23:16:37 INFO deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+18/12/22 23:16:37 INFO deprecation: mapred.tip.id is deprecated. Instead, use mapreduce.task.id
+18/12/22 23:16:37 INFO deprecation: mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id
+18/12/22 23:16:37 INFO deprecation: mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap
+18/12/22 23:16:37 INFO deprecation: mapred.task.partition is deprecated. Instead, use mapreduce.task.partition
+18/12/22 23:16:37 INFO deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+18/12/22 23:16:37 INFO deprecation: mapred.job.id is deprecated. Instead, use mapreduce.job.id
+18/12/22 23:16:37 INFO Executor: Finished task 0.0 in stage 0.0 (TID 0). 1120 bytes result sent to driver
+18/12/22 23:16:37 INFO Executor: Finished task 1.0 in stage 0.0 (TID 1). 1120 bytes result sent to driver
+18/12/22 23:16:37 INFO TaskSetManager: Finished task 1.0 in stage 0.0 (TID 1) in 185 ms on localhost (executor driver) (1/2)
+18/12/22 23:16:37 INFO TaskSetManager: Finished task 0.0 in stage 0.0 (TID 0) in 279 ms on localhost (executor driver) (2/2)
+18/12/22 23:16:37 INFO TaskSchedulerImpl: Removed TaskSet 0.0, whose tasks have all completed, from pool 
+18/12/22 23:16:37 INFO DAGScheduler: ResultStage 0 (count at SparkAssignment45.scala:68) finished in 0.401 s
+Number of rows in the file: 3
+18/12/22 23:16:37 INFO DAGScheduler: Job 0 finished: count at SparkAssignment45.scala:68, took 0.568343 s
+18/12/22 23:16:37 INFO SparkContext: Starting job: count at SparkAssignment45.scala:73
+18/12/22 23:16:37 INFO DAGScheduler: Got job 1 (count at SparkAssignment45.scala:73) with 2 output partitions
+18/12/22 23:16:37 INFO DAGScheduler: Final stage: ResultStage 1 (count at SparkAssignment45.scala:73)
+18/12/22 23:16:37 INFO DAGScheduler: Parents of final stage: List()
+18/12/22 23:16:37 INFO DAGScheduler: Missing parents: List()
+18/12/22 23:16:37 INFO DAGScheduler: Submitting ResultStage 1 (MapPartitionsRDD[2] at flatMap at SparkAssignment45.scala:72), which has no missing parents
+18/12/22 23:16:37 INFO MemoryStore: Block broadcast_2 stored as values in memory (estimated size 3.3 KB, free 1988.6 MB)
+18/12/22 23:16:37 INFO MemoryStore: Block broadcast_2_piece0 stored as bytes in memory (estimated size 1986.0 B, free 1988.6 MB)
+18/12/22 23:16:37 INFO BlockManagerInfo: Added broadcast_2_piece0 in memory on 192.168.56.1:56297 (size: 1986.0 B, free: 1988.7 MB)
+18/12/22 23:16:37 INFO SparkContext: Created broadcast 2 from broadcast at DAGScheduler.scala:996
+18/12/22 23:16:37 INFO DAGScheduler: Submitting 2 missing tasks from ResultStage 1 (MapPartitionsRDD[2] at flatMap at SparkAssignment45.scala:72)
+18/12/22 23:16:37 INFO TaskSchedulerImpl: Adding task set 1.0 with 2 tasks
+18/12/22 23:16:37 INFO TaskSetManager: Starting task 0.0 in stage 1.0 (TID 2, localhost, executor driver, partition 0, PROCESS_LOCAL, 5915 bytes)
+18/12/22 23:16:37 INFO TaskSetManager: Starting task 1.0 in stage 1.0 (TID 3, localhost, executor driver, partition 1, PROCESS_LOCAL, 5915 bytes)
+18/12/22 23:16:37 INFO Executor: Running task 0.0 in stage 1.0 (TID 2)
+18/12/22 23:16:37 INFO Executor: Running task 1.0 in stage 1.0 (TID 3)
+18/12/22 23:16:37 INFO HadoopRDD: Input split: file:/C:/Users/siddam/IdeaProjects/session_45_3.txt:56+57
+18/12/22 23:16:37 INFO HadoopRDD: Input split: file:/C:/Users/siddam/IdeaProjects/session_45_3.txt:0+56
+18/12/22 23:16:37 INFO Executor: Finished task 1.0 in stage 1.0 (TID 3). 1041 bytes result sent to driver
+18/12/22 23:16:37 INFO Executor: Finished task 0.0 in stage 1.0 (TID 2). 954 bytes result sent to driver
+18/12/22 23:16:37 INFO TaskSetManager: Finished task 1.0 in stage 1.0 (TID 3) in 46 ms on localhost (executor driver) (1/2)
+18/12/22 23:16:37 INFO TaskSetManager: Finished task 0.0 in stage 1.0 (TID 2) in 59 ms on localhost (executor driver) (2/2)
+18/12/22 23:16:37 INFO TaskSchedulerImpl: Removed TaskSet 1.0, whose tasks have all completed, from pool 
+18/12/22 23:16:37 INFO DAGScheduler: ResultStage 1 (count at SparkAssignment45.scala:73) finished in 0.063 s
+18/12/22 23:16:37 INFO DAGScheduler: Job 1 finished: count at SparkAssignment45.scala:73, took 0.139789 s
+22
+18/12/22 23:16:37 INFO SparkContext: Starting job: countByValue at SparkAssignment45.scala:75
+18/12/22 23:16:38 INFO DAGScheduler: Registering RDD 4 (countByValue at SparkAssignment45.scala:75)
+18/12/22 23:16:38 INFO DAGScheduler: Got job 2 (countByValue at SparkAssignment45.scala:75) with 2 output partitions
+18/12/22 23:16:38 INFO DAGScheduler: Final stage: ResultStage 3 (countByValue at SparkAssignment45.scala:75)
+18/12/22 23:16:38 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 2)
+18/12/22 23:16:38 INFO DAGScheduler: Missing parents: List(ShuffleMapStage 2)
+18/12/22 23:16:38 INFO DAGScheduler: Submitting ShuffleMapStage 2 (MapPartitionsRDD[4] at countByValue at SparkAssignment45.scala:75), which has no missing parents
+18/12/22 23:16:38 INFO MemoryStore: Block broadcast_3 stored as values in memory (estimated size 5.0 KB, free 1988.5 MB)
+18/12/22 23:16:38 INFO MemoryStore: Block broadcast_3_piece0 stored as bytes in memory (estimated size 2.9 KB, free 1988.5 MB)
+18/12/22 23:16:38 INFO BlockManagerInfo: Added broadcast_3_piece0 in memory on 192.168.56.1:56297 (size: 2.9 KB, free: 1988.7 MB)
+18/12/22 23:16:38 INFO SparkContext: Created broadcast 3 from broadcast at DAGScheduler.scala:996
+18/12/22 23:16:38 INFO DAGScheduler: Submitting 2 missing tasks from ShuffleMapStage 2 (MapPartitionsRDD[4] at countByValue at SparkAssignment45.scala:75)
+18/12/22 23:16:38 INFO TaskSchedulerImpl: Adding task set 2.0 with 2 tasks
+18/12/22 23:16:38 INFO TaskSetManager: Starting task 0.0 in stage 2.0 (TID 4, localhost, executor driver, partition 0, PROCESS_LOCAL, 5993 bytes)
+18/12/22 23:16:38 INFO TaskSetManager: Starting task 1.0 in stage 2.0 (TID 5, localhost, executor driver, partition 1, PROCESS_LOCAL, 5993 bytes)
+18/12/22 23:16:38 INFO Executor: Running task 0.0 in stage 2.0 (TID 4)
+18/12/22 23:16:38 INFO Executor: Running task 1.0 in stage 2.0 (TID 5)
+18/12/22 23:16:38 INFO HadoopRDD: Input split: file:/C:/Users/siddam/IdeaProjects/session_45_3.txt:56+57
+18/12/22 23:16:38 INFO HadoopRDD: Input split: file:/C:/Users/siddam/IdeaProjects/session_45_3.txt:0+56
+18/12/22 23:16:38 INFO Executor: Finished task 0.0 in stage 2.0 (TID 4). 1745 bytes result sent to driver
+18/12/22 23:16:38 INFO TaskSetManager: Finished task 0.0 in stage 2.0 (TID 4) in 100 ms on localhost (executor driver) (1/2)
+18/12/22 23:16:38 INFO Executor: Finished task 1.0 in stage 2.0 (TID 5). 1568 bytes result sent to driver
+18/12/22 23:16:38 INFO TaskSetManager: Finished task 1.0 in stage 2.0 (TID 5) in 101 ms on localhost (executor driver) (2/2)
+18/12/22 23:16:38 INFO TaskSchedulerImpl: Removed TaskSet 2.0, whose tasks have all completed, from pool 
+18/12/22 23:16:38 INFO DAGScheduler: ShuffleMapStage 2 (countByValue at SparkAssignment45.scala:75) finished in 0.104 s
+18/12/22 23:16:38 INFO DAGScheduler: looking for newly runnable stages
+18/12/22 23:16:38 INFO DAGScheduler: running: Set()
+18/12/22 23:16:38 INFO DAGScheduler: waiting: Set(ResultStage 3)
+18/12/22 23:16:38 INFO DAGScheduler: failed: Set()
+18/12/22 23:16:38 INFO DAGScheduler: Submitting ResultStage 3 (ShuffledRDD[5] at countByValue at SparkAssignment45.scala:75), which has no missing parents
+18/12/22 23:16:38 INFO MemoryStore: Block broadcast_4 stored as values in memory (estimated size 3.2 KB, free 1988.5 MB)
+18/12/22 23:16:38 INFO MemoryStore: Block broadcast_4_piece0 stored as bytes in memory (estimated size 1971.0 B, free 1988.5 MB)
+18/12/22 23:16:38 INFO BlockManagerInfo: Added broadcast_4_piece0 in memory on 192.168.56.1:56297 (size: 1971.0 B, free: 1988.7 MB)
+18/12/22 23:16:38 INFO SparkContext: Created broadcast 4 from broadcast at DAGScheduler.scala:996
+18/12/22 23:16:38 INFO DAGScheduler: Submitting 2 missing tasks from ResultStage 3 (ShuffledRDD[5] at countByValue at SparkAssignment45.scala:75)
+18/12/22 23:16:38 INFO TaskSchedulerImpl: Adding task set 3.0 with 2 tasks
+18/12/22 23:16:38 INFO TaskSetManager: Starting task 0.0 in stage 3.0 (TID 6, localhost, executor driver, partition 0, ANY, 5755 bytes)
+18/12/22 23:16:38 INFO TaskSetManager: Starting task 1.0 in stage 3.0 (TID 7, localhost, executor driver, partition 1, ANY, 5755 bytes)
+18/12/22 23:16:38 INFO Executor: Running task 0.0 in stage 3.0 (TID 6)
+18/12/22 23:16:38 INFO Executor: Running task 1.0 in stage 3.0 (TID 7)
+18/12/22 23:16:38 INFO ShuffleBlockFetcherIterator: Getting 2 non-empty blocks out of 2 blocks
+18/12/22 23:16:38 INFO ShuffleBlockFetcherIterator: Getting 2 non-empty blocks out of 2 blocks
+18/12/22 23:16:38 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 8 ms
+18/12/22 23:16:38 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 8 ms
+18/12/22 23:16:38 INFO Executor: Finished task 0.0 in stage 3.0 (TID 6). 1983 bytes result sent to driver
+18/12/22 23:16:38 INFO Executor: Finished task 1.0 in stage 3.0 (TID 7). 2062 bytes result sent to driver
+18/12/22 23:16:38 INFO TaskSetManager: Finished task 1.0 in stage 3.0 (TID 7) in 142 ms on localhost (executor driver) (1/2)
+18/12/22 23:16:38 INFO TaskSetManager: Finished task 0.0 in stage 3.0 (TID 6) in 162 ms on localhost (executor driver) (2/2)
+18/12/22 23:16:38 INFO TaskSchedulerImpl: Removed TaskSet 3.0, whose tasks have all completed, from pool 
+18/12/22 23:16:38 INFO DAGScheduler: ResultStage 3 (countByValue at SparkAssignment45.scala:75) finished in 0.165 s
+18/12/22 23:16:38 INFO DAGScheduler: Job 2 finished: countByValue at SparkAssignment45.scala:75, took 0.525378 s
+(number,2)
+(this,1)
+(count,1)
+(in,1)
+(is,2)
+(This,1)
+(assignment.,1)
+(total,1)
+(document.,1)
+(The,1)
+(my,1)
+(will,1)
+(first,1)
+(It,1)
+(lines,2)
+(3,1)
+(of,2)
+(the,1)
+18/12/22 23:16:38 INFO SparkContext: Invoking stop() from shutdown hook
+18/12/22 23:16:38 INFO SparkUI: Stopped Spark web UI at http://192.168.56.1:4040
+18/12/22 23:16:38 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+18/12/22 23:16:38 INFO MemoryStore: MemoryStore cleared
+18/12/22 23:16:38 INFO BlockManager: BlockManager stopped
+18/12/22 23:16:38 INFO BlockManagerMaster: BlockManagerMaster stopped
+18/12/22 23:16:38 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+18/12/22 23:16:38 INFO SparkContext: Successfully stopped SparkContext
+18/12/22 23:16:38 INFO ShutdownHookManager: Shutdown hook called
+18/12/22 23:16:38 INFO ShutdownHookManager: Deleting directory C:\Users\siddam\AppData\Local\Temp\spark-2f3d5c05-3f83-423a-a8e9-e13ca5d916a3
+
+Process finished with exit code 0
